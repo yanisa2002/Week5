@@ -21,5 +21,8 @@
     <ClCompile Include="GCD.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="lastNum.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
